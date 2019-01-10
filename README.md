@@ -11,7 +11,7 @@ SCP Labs is a splinter group within the SuperCowPowers organization. The team va
 ## Data Analysis Notebooks
 
 - How to Optimize Clustering: [Clustering
-    Hyperparameters](https://nbviewer.jupyter.org/github/SuperCowPowers/scp-labs/blob/master/notebooks/Clustering_Picking_K.ipynb)
+    Hyperparameters](https://github.com/SuperCowPowers/scp-labs/blob/master/notebooks/Clustering_Picking_K.ipynb)
 - Anomaly Detection Exploration: [Anomaly
     Detection](https://nbviewer.jupyter.org/github/SuperCowPowers/scp-labs/blob/master/notebooks/Anomaly_Detection.ipynb)
 - Encoding Categorical Data: [Categorical Variable](https://nbviewer.jupyter.org/github/SuperCowPowers/scp-labs/blob/master/notebooks/Categorial_Encoding.ipynb)
