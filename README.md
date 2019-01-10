@@ -1,4 +1,5 @@
 <img align="right" style="padding:5px" src="images/tshirt_front.jpg" width="180">
+
 # SCP Labs
 SCP Labs is a splinter group within the SuperCowPowers organization. The team values passion above profit, wakes up late, smells questionable, and has potentially unhealthy caffeine habits...
 
