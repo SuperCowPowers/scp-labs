@@ -7,10 +7,7 @@ div.text_cell_render{
     -webkit-font-smoothing: antialiased !important;
 }
 
-/* Background */
-div#notebook {
-   background: #888888;
-}
+
 /* Wiggle the paddings */
 div#notebook-container {
   padding-top: 10px;
