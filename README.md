@@ -5,14 +5,14 @@ SCP Labs is the open source, community engagement team within the SuperCowPowers
 
 ## Presentations
 
-- Data Analysis, Machine Learning, Bro, and You!: <a href="https://www.youtube.com/watch?v=pG5lU9CLnIU" target="_blank">Presentation Video</a>
+- Data Analysis, Machine Learning, Bro, and You! : <a href="https://www.youtube.com/watch?v=pG5lU9CLnIU" target="_blank">Presentation Video</a>
 
 
 ## Data Analysis Notebooks
 
-- How to Optimize Clustering:[Clustering HyperParameters](https://nbviewer.jupyter.org/github/SuperCowPowers/scp-labs/blob/master/notebooks/Clustering_Picking_K.ipynb){:target="_blank"}
-- Anomaly Detection Exploration: <a href="https://nbviewer.jupyter.org/github/SuperCowPowers/scp-labs/blob/master/notebooks/Anomaly_Detection.ipynb" target="_blank">Anomaly Detection</a>
-- Encoding Categorical Data: <a href="https://nbviewer.jupyter.org/github/SuperCowPowers/scp-labs/blob/master/notebooks/Categorial_Encoding.ipynb" target="_blank">Categorical Variables</a>
+- How to Optimize Clustering: [Clustering HyperParameters](https://nbviewer.jupyter.org/github/SuperCowPowers/scp-labs/blob/master/notebooks/Clustering_Picking_K.ipynb)
+- Anomaly Detection Exploration: [Anomaly Detection] (https://nbviewer.jupyter.org/github/SuperCowPowers/scp-labs/blob/master/notebooks/Anomaly_Detection.ipynb)
+- Encoding Categorical Data: [Categorical Variables](https://nbviewer.jupyter.org/github/SuperCowPowers/scp-labs/blob/master/notebooks/Categorial_Encoding.ipynb)
 
 <br>
 <img align="left" style="padding:15px" src="images/SCP_med.png" width="100">
