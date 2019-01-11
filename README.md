@@ -1,7 +1,7 @@
 <img align="right" style="padding:5px" src="images/tshirt_front.jpg" width="180">
 
 # SCP Labs
-SCP Labs is a splinter group within the SuperCowPowers organization. The team values passion above profit, wakes up late, smells questionable, and has potentially unhealthy caffeine habits...
+SCP Labs is the open source, community engagement team within the SuperCowPowers organization.
 
 ## Presentations
 
@@ -11,7 +11,7 @@ SCP Labs is a splinter group within the SuperCowPowers organization. The team va
 ## Data Analysis Notebooks
 
 - How to Optimize Clustering: [Clustering
-    Hyperparameters](https://github.com/SuperCowPowers/scp-labs/blob/master/notebooks/Clustering_Picking_K.ipynb)
+    Hyperparameters](https://nbviewer.jupyter.org/github/SuperCowPowers/scp-labs/blob/master/notebooks/Clustering_Picking_K.ipynb)
 - Anomaly Detection Exploration: [Anomaly
     Detection](https://nbviewer.jupyter.org/github/SuperCowPowers/scp-labs/blob/master/notebooks/Anomaly_Detection.ipynb)
 - Encoding Categorical Data: [Categorical Variable](https://nbviewer.jupyter.org/github/SuperCowPowers/scp-labs/blob/master/notebooks/Categorial_Encoding.ipynb)

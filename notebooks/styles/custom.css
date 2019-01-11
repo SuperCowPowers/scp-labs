@@ -1,4 +1,26 @@
 <style>
+
+/* Make the font look nice */
+div.text_cell_render{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 110%;
+    -webkit-font-smoothing: antialiased !important;
+}
+
+/* Background */
+div#notebook {
+   background: #888888;
+}
+/* Wiggle the paddings */
+div#notebook-container {
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-left: 0px;
+}
+
+
+/* Put some padding around images + curved corners */
 img {
   border-radius: 38px;
   padding: 20px
