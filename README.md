@@ -20,6 +20,6 @@ SCP Labs is a splinter group within the SuperCowPowers organization. The team va
 <img align="left" style="padding:15px" src="images/SCP_med.png" width="100">
   
 ### About SuperCowPowers
-The company was formed so that its developers could follow their passion for Python, streaming data pipelines and having fun with data science. We also think cows are cool and should be superheros or at least carry around rayguns and burner phones.
+The company was formed so that its developers could follow their passion for Python, streaming data pipelines and having fun with data science. We also think cows are cool and should be superheros or at least carry around rayguns and burner phones. [SuperCowPowers](https://www.supercowpowers.com)
     
     
