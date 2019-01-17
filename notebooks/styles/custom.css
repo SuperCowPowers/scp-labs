@@ -1,6 +1,11 @@
 <style>
 
-/* Make the font look nice */
+/* Increase the dataframe font size a bit*/
+table.dataframe {
+    font-size:100%;
+}
+
+/* Make the MarkDown font look nice */
 div.text_cell_render{
     font-family: 'Open Sans', sans-serif;
     font-size: 110%;
