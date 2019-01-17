@@ -104,3 +104,6 @@ venv.bak/
 
 # Mac DS file
 .DS_Store
+
+# Serialized models 
+*.pkl
