@@ -14,6 +14,7 @@ SCP Labs is the open source, community engagement team within the SuperCowPowers
 - Categorical Encoding Dangers!: [Categorical Data, ML, and Danger!](https://nbviewer.jupyter.org/github/SuperCowPowers/scp-labs/blob/master/notebooks/Categorical_Encoding_Dangers.ipynb)
 - How to Optimize Clustering: [Clustering HyperParameters](https://nbviewer.jupyter.org/github/SuperCowPowers/scp-labs/blob/master/notebooks/Clustering_Picking_K.ipynb)
 - Anomaly Detection Exploration: [Anomaly Exploration](https://nbviewer.jupyter.org/github/SuperCowPowers/scp-labs/blob/master/notebooks/Anomaly_Exploration.ipynb)
+- Regression Evaluation Metrics: [Regression Model Metrics](https://nbviewer.jupyter.org/github/SuperCowPowers/scp-labs/blob/master/notebooks/Regression_Evaluation_Metrics.ipynb)
 
 
 <br>
