@@ -10,11 +10,11 @@ SCP Labs is the open source, community engagement team within the SuperCowPowers
 
 ## Data Analysis Notebooks
 
-- Categorical Data Guide: [Guide to using Categorical Data](https://nbviewer.jupyter.org/github/SuperCowPowers/scp-labs/blob/master/notebooks/Categorical_Data_Guide.ipynb)
-- Categorical Encoding Dangers!: [Categorical Data, ML, and Danger!](https://nbviewer.jupyter.org/github/SuperCowPowers/scp-labs/blob/master/notebooks/Categorical_Encoding_Dangers.ipynb)
-- How to Optimize Clustering: [Clustering HyperParameters](https://nbviewer.jupyter.org/github/SuperCowPowers/scp-labs/blob/master/notebooks/Clustering_Picking_K.ipynb)
-- Anomaly Detection Exploration: [Anomaly Exploration](https://nbviewer.jupyter.org/github/SuperCowPowers/scp-labs/blob/master/notebooks/Anomaly_Exploration.ipynb)
-- Regression Evaluation Metrics: [Regression Model Metrics](https://nbviewer.jupyter.org/github/SuperCowPowers/scp-labs/blob/master/notebooks/Regression_Evaluation_Metrics.ipynb)
+- Categorical Data Guide: [Guide to using Categorical Data](https://nbviewer.jupyter.org/github/SuperCowPowers/scp-labs/blob/main/notebooks/Categorical_Data_Guide.ipynb)
+- Categorical Encoding Dangers!: [Categorical Data, ML, and Danger!](https://nbviewer.jupyter.org/github/SuperCowPowers/scp-labs/blob/main/notebooks/Categorical_Encoding_Dangers.ipynb)
+- How to Optimize Clustering: [Clustering HyperParameters](https://nbviewer.jupyter.org/github/SuperCowPowers/scp-labs/blob/main/notebooks/Clustering_Picking_K.ipynb)
+- Anomaly Detection Exploration: [Anomaly Exploration](https://nbviewer.jupyter.org/github/SuperCowPowers/scp-labs/blob/main/notebooks/Anomaly_Exploration.ipynb)
+- Regression Evaluation Metrics: [Regression Model Metrics](https://nbviewer.jupyter.org/github/SuperCowPowers/scp-labs/blob/main/notebooks/Regression_Evaluation_Metrics.ipynb)
 
 
 <br>
