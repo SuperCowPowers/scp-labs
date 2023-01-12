@@ -1,4 +1,4 @@
-<img align="right" style="padding:15px" src="images/scp_labs.png" width="180">
+<img align="right" style="padding:15px" src="images/scp_labs.png" width="250">
 
 # SCP Labs
 SCP Labs is the open source, community engagement team within the SuperCowPowers organization.
