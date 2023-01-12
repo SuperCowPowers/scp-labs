@@ -1,7 +1,7 @@
-<img align="right" style="padding:15px" src="images/scp_labs.png" width="250">
+<img align="right" style="padding: 0px 20px 0px 0px" src="images/scp_labs.png" width="250">
 
 # SCP Labs
-SCP Labs is the open source, community engagement team within the SuperCowPowers organization.
+SCP Labs is the open source, community engagement team within the SuperCowPowers organization. Our mission is to provide useful software, notebooks, and examples around Data Science, Analysis, and Pipeline Processing. If you're interesting in our AWS SageMaker project please see [SageWorks](https://github.com/SuperCowPowers/sageworks).
 
 ## Presentations
 
